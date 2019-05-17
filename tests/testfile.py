@@ -5,3 +5,4 @@ os.system("echo")
 
 print("Mike test 1 2 3")
 print("Mike idziesz zagrac?")
+print("Masvidal K1nG!")
